@@ -9,7 +9,7 @@ Use the *.stl files* if you have a mirror as in the description, otherwise creat
 
 - Download [OpenSCAD](https://openscad.org). OpenSCAD is an Free and Open Source Software (FOSS). Use it for parametric 3D CAD modeling.
 - The main SCAD file uses the [Nuts 'n Bolts library from Johannes Kneer](https://github.com/JohK/nutsnbolts).
-- Change this line: `xyz = [1,1,0.05,true];`.
+- Change this line: `xyz = [1,1,0.05,true];`
   - 1st parameter (1), is the width of the mirror.
   - 2nd parameter (1), is the height of the mirror.
   - 3rd parameter (0.05), is the thickness of the mirror.
