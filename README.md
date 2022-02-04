@@ -3,7 +3,7 @@
 
 The main file is a [SCAD file](holder.scad) that was used to create the other .stl files.
 
-Use the .stl files) if you have a mirror as in the description, otherwise create your own .stl file using OpenSCAD.
+Use the *.stl files* if you have a mirror as in the description, otherwise create your own .stl file using *OpenSCAD*.
 
 ## OpenSCAD
 
