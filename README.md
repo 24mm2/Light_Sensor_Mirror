@@ -3,9 +3,7 @@
 
 The main file is a [SCAD file](holder.scad) that was used to create the other .stl files.
 
-Use the .stl files if you have a mirror as in the description, otherwise create your own .stl file using OpenSCAD.
-
-The .stl files are based on listed measures from [this collection](https://www.amazon.com/gp/product/B07T8Z58SF) of craft mirrors from Amazon. I haven't tested if the measures are accurate. There are 3 files for mirrors of 1x1", 0.75x0.75" and 0.5x0.5" all 0.05" in thickness.
+Use the [stl files](#stl-files) if you have a mirror as in the description, otherwise create your own .stl file using [OpenSCAD](#OpenSCAD).
 
 ## OpenSCAD
 
@@ -19,8 +17,8 @@ The .stl files are based on listed measures from [this collection](https://www.a
 - Press `F6` to render the model.
 - Press `F7` to export the model to a .stl file.
 
-## .stl files
-
+## stl files
+The .stl files are based on listed measures from [this collection](https://www.amazon.com/gp/product/B07T8Z58SF) of craft mirrors from Amazon. I haven't tested if the measures are accurate. There are 3 files for mirrors of 1x1", 0.75x0.75" and 0.5x0.5" all 0.05" in thickness.
 | .stl file | X | Y | Z | Use inches |
 | --- | ---: | ---: | ---: | :---: | 
 | [holder_1x1x0.05_i](stl/holder_1x1x0.05_i.stl) |  1" | 1" | 0.05" | true |
