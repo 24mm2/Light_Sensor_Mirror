@@ -9,13 +9,15 @@ The .stl files are based on listed measures from [this collection](https://www.a
 
 ## OpenSCAD
 
-- Download [OpenSCAD](https://openscad.org). OpenSCAD is an Free and Open Source Software (FOSS). Use it for parametric CAD fil generation.
-- This main SCAD file uses the [Nuts 'n Bolts library from Johannes Kneer](https://github.com/JohK/nutsnbolts)
+- Download [OpenSCAD](https://openscad.org). OpenSCAD is an Free and Open Source Software (FOSS). Use it for parametric 3D CAD modeling.
+- The main SCAD file uses the [Nuts 'n Bolts library from Johannes Kneer](https://github.com/JohK/nutsnbolts)
 - Change this line: `xyz = [1,1,0.05,true];`
   - 1st parameter (1), is the width of the mirror
   - 2nd parameter (1), is the height of the mirror
   - 3rd parameter (0.05), is the thickness of the mirror
   - 4th parameter (true), is `true` if inches are used, and `false` if millimeters are used
+- Press `F6` to render the model.
+- Press `F7` to export the model to a .stl file.
 
 ## .stl files
 
