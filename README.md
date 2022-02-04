@@ -26,3 +26,8 @@ The .stl files are based on listed measures from [this collection](https://www.a
 | [holder_1x1x0.05_i](stl/holder_1x1x0.05_i.stl) |  1" | 1" | 0.05" | true |
 | [holder_.75x.75x0.05_i](stl/holder_.75x.75x0.05_i.stl) |  0.75" | 0.75" | 0.05" | true |
 | [holder_.5x.5x0.05_i](stl/holder_.5x.5x0.05_i.stl) |  0.5" | 0.5" | 0.05" | true |
+
+## Mount
+- While the holder has four points of fastning, only two will be used, which allows orientation of the mirror in all four directions. 
+- **2x M2 (8mm) bolts and nuts** are needed.
+- The holder has cutouts for connectors on all sides, see image above.
