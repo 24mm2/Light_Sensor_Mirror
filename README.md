@@ -21,6 +21,6 @@ The .stl files are based on listed measures from [this collection](https://www.a
 
 | .stl file | X | Y | Z | Use inches |
 | --- | ---: | ---: | ---: | :---: | 
-| [holder_1x1x0.05_i](holder_1x1x0.05_i.stl) |  1" | 1" | 0.05" | true |
-| [holder_.75x.75x0.05_i](holder_.75x.75x0.05_i.stl) |  0.75" | 0.75" | 0.05" | true |
-| [holder_.5x.5x0.05_i](holder_.5x.5x0.05_i.stl) |  0.5" | 0.5" | 0.05" | true |
+| [holder_1x1x0.05_i](stl/holder_1x1x0.05_i.stl) |  1" | 1" | 0.05" | true |
+| [holder_.75x.75x0.05_i](stl/holder_.75x.75x0.05_i.stl) |  0.75" | 0.75" | 0.05" | true |
+| [holder_.5x.5x0.05_i](stl/holder_.5x.5x0.05_i.stl) |  0.5" | 0.5" | 0.05" | true |
